@@ -1,1 +1,3 @@
 # TelegramWeatherBot
+
+Simple telegram bot
